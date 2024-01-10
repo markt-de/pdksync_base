@@ -1,0 +1,5 @@
+---
+namespace: markt-de
+pdksync_label: ''
+pdk_templates_ref: main
+pdk_templates_url: https://github.com/markt-de/pdk-templates.git

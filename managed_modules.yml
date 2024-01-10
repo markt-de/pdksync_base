@@ -1,0 +1,19 @@
+---
+- puppet-acme
+- puppet-activemq
+- puppet-async_profiler
+- puppet-baculaweb
+- puppet-dovecot
+- puppet-ds_389
+- puppet-foreman_network
+- puppet-galera
+- puppet-lam
+- puppet-liquibase
+- puppet-nextcloud
+- puppet-onetimesecret
+- puppet-proftpd
+- puppet-rspamd
+- puppet-solr
+- puppet-sonarqube
+- puppet-thumbor
+- puppet-wforce

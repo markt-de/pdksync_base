@@ -1,4 +1,5 @@
 ---
+- puppet-marktlib
 - puppet-acme
 - puppet-activemq
 - puppet-async_profiler
